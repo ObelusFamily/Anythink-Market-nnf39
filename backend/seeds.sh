@@ -2,104 +2,105 @@
 
 python3 ./app/db/seeds.py
 
-User1	 	Solar clothe drying	 	Very useful	 	but expensive
-User2	 	White print toner	 	Not so useful	 	and expensive
-User3	 	Glass hammer	 	Very useful	 	and fair price
-User4	 	Wireless wires	 	Very useful	 	but expensive
-User5	 	Power balance 	 	Not so useful	 	and expensive
-User6	 	Solar clothe drying	 	Very useful	 	and fair price
-User7	 	White print toner	 	Very useful	 	but expensive
-User8	 	Glass hammer	 	Not so useful	 	and expensive
-User9	 	Wireless wires	 	Very useful	 	and fair price
-User10	 	Power balance 	 	Very useful	 	but expensive
-User11	 	Solar clothe drying	 	Not so useful	 	and expensive
-User12	 	White print toner	 	Very useful	 	and fair price
-User13	 	Glass hammer	 	Very useful	 	but expensive
-User14	 	Wireless wires	 	Not so useful	 	and expensive
-User15	 	Power balance 	 	Very useful	 	and fair price
-User16	 	Solar clothe drying	 	Very useful	 	but expensive
-User17	 	White print toner	 	Not so useful	 	and expensive
-User18	 	Glass hammer	 	Very useful	 	and fair price
-User19	 	Wireless wires	 	Very useful	 	but expensive
-User20	 	Power balance 	 	Not so useful	 	and expensive
-User21	 	Solar clothe drying	 	Very useful	 	and fair price
-User22	 	White print toner	 	Very useful	 	but expensive
-User23	 	Glass hammer	 	Not so useful	 	and expensive
-User24	 	Wireless wires	 	Very useful	 	and fair price
-User25	 	Power balance 	 	Very useful	 	but expensive
-User26	 	Solar clothe drying	 	Not so useful	 	and expensive
-User27	 	White print toner	 	Very useful	 	and fair price
-User28	 	Glass hammer	 	Very useful	 	but expensive
-User29	 	Wireless wires	 	Not so useful	 	and expensive
-User30	 	Power balance 	 	Very useful	 	and fair price
-User31	 	Solar clothe drying	 	Very useful	 	but expensive
-User32	 	White print toner	 	Not so useful	 	and expensive
-User33	 	Glass hammer	 	Very useful	 	and fair price
-User34	 	Wireless wires	 	Very useful	 	but expensive
-User35	 	Power balance 	 	Not so useful	 	and expensive
-User36	 	Solar clothe drying	 	Very useful	 	and fair price
-User37	 	White print toner	 	Very useful	 	but expensive
-User38	 	Glass hammer	 	Not so useful	 	and expensive
-User39	 	Wireless wires	 	Very useful	 	and fair price
-User40	 	Power balance 	 	Very useful	 	but expensive
-User41	 	Solar clothe drying	 	Not so useful	 	and expensive
-User42	 	White print toner	 	Very useful	 	and fair price
-User43	 	Glass hammer	 	Very useful	 	but expensive
-User44	 	Wireless wires	 	Not so useful	 	and expensive
-User45	 	Power balance 	 	Very useful	 	and fair price
-User46	 	Solar clothe drying	 	Very useful	 	but expensive
-User47	 	White print toner	 	Not so useful	 	and expensive
-User48	 	Glass hammer	 	Very useful	 	and fair price
-User49	 	Wireless wires	 	Very useful	 	but expensive
-User50	 	Power balance 	 	Not so useful	 	and expensive
-User51	 	Solar clothe drying	 	Very useful	 	but expensive
-User52	 	White print toner	 	Not so useful	 	and expensive
-User53	 	Glass hammer	 	Very useful	 	and fair price
-User54	 	Wireless wires	 	Very useful	 	but expensive
-User55	 	Power balance 	 	Not so useful	 	and expensive
-User56	 	Solar clothe drying	 	Very useful	 	and fair price
-User57	 	White print toner	 	Very useful	 	but expensive
-User58	 	Glass hammer	 	Not so useful	 	and expensive
-User59	 	Wireless wires	 	Very useful	 	and fair price
-User60	 	Power balance 	 	Very useful	 	but expensive
-User61	 	Solar clothe drying	 	Not so useful	 	and expensive
-User62	 	White print toner	 	Very useful	 	and fair price
-User63	 	Glass hammer	 	Very useful	 	but expensive
-User64	 	Wireless wires	 	Not so useful	 	and expensive
-User65	 	Power balance 	 	Very useful	 	and fair price
-User66	 	Solar clothe drying	 	Very useful	 	but expensive
-User67	 	White print toner	 	Not so useful	 	and expensive
-User68	 	Glass hammer	 	Very useful	 	and fair price
-User69	 	Wireless wires	 	Very useful	 	but expensive
-User70	 	Power balance 	 	Not so useful	 	and expensive
-User71	 	Solar clothe drying	 	Very useful	 	and fair price
-User72	 	White print toner	 	Very useful	 	but expensive
-User73	 	Glass hammer	 	Not so useful	 	and expensive
-User74	 	Wireless wires	 	Very useful	 	and fair price
-User75	 	Power balance 	 	Very useful	 	but expensive
-User76	 	Solar clothe drying	 	Not so useful	 	and expensive
-User77	 	White print toner	 	Very useful	 	and fair price
-User78	 	Glass hammer	 	Very useful	 	but expensive
-User79	 	Wireless wires	 	Not so useful	 	and expensive
-User80	 	Power balance 	 	Very useful	 	and fair price
-User81	 	Solar clothe drying	 	Very useful	 	but expensive
-User82	 	White print toner	 	Not so useful	 	and expensive
-User83	 	Glass hammer	 	Very useful	 	and fair price
-User84	 	Wireless wires	 	Very useful	 	but expensive
-User85	 	Power balance 	 	Not so useful	 	and expensive
-User86	 	Solar clothe drying	 	Very useful	 	and fair price
-User87	 	White print toner	 	Very useful	 	but expensive
-User88	 	Glass hammer	 	Not so useful	 	and expensive
-User89	 	Wireless wires	 	Very useful	 	and fair price
-User90	 	Power balance 	 	Very useful	 	but expensive
-User91	 	Solar clothe drying	 	Not so useful	 	and expensive
-User92	 	White print toner	 	Very useful	 	and fair price
-User93	 	Glass hammer	 	Very useful	 	but expensive
-User94	 	Wireless wires	 	Not so useful	 	and expensive
-User95	 	Power balance 	 	Very useful	 	and fair price
-User96	 	Solar clothe drying	 	Very useful	 	but expensive
-User97	 	White print toner	 	Not so useful	 	and expensive
-User98	 	Glass hammer	 	Very useful	 	and fair price
-User99	 	Wireless wires	 	Very useful	 	but expensive
-User100	 	Power balance 	 	Not so useful	 	and expensive
+User1, User1@gmail.com, 60166, 6b908b785fdba05a6446347dae08d8c5
+User2, User2@gmail.com, 42378, a09bccf2b2963982b34dc0e08d8b582a
+User3, User3@gmail.com, 51792, e5d2ad241ec44cf155bc78ae8d11f715
+User4, User4@gmail.com, 24755, 5ad55d96abf0e50647d6de116530d6df
+User5, User5@gmail.com, 95172, 50c22602b70659dde2893f3a2ba0ab82
+User6, User6@gmail.com, 53457, 10ddead5bb8bcfaa4d62090acd7cdfb2
+User7, User7@gmail.com, 38525, 98cd5d17f0660baca7d652995f0d17b6
+User8, User8@gmail.com, 31348, d306313ac03787c5f5f41641773bfb9a
+User9, User9@gmail.com, 43149, 2a19bc085beedfd33873400cb9249e4f
+User10, User10@gmail.com, 22034, 31b083bc7281321ea98d3c1bc9701627
+User11, User11@gmail.com, 66983, 8189d5d4551ef7c14034917663cdedf7
+User12, User12@gmail.com, 33635, 33b564a1370a1c48f07d6f89074bdf1f
+User13, User13@gmail.com, 85330, 85f10a42777948fc9b135cfb54cfce89
+User14, User14@gmail.com, 81154, 92c843669b9da5ac3267d0fe2f927da9
+User15, User15@gmail.com, 44397, 3e98cb5941d48a70df0c8cdf76c127b0
+User16, User16@gmail.com, 80094, 3b156c523d4d6750bc56a753b71304a0
+User17, User17@gmail.com, 80562, b62fc927d88000a3ee2468395c9a71f8
+User18, User18@gmail.com, 55199, 6eb1ee11bd3b6bb7df443fa48a257d86
+User19, User19@gmail.com, 83596, 41b20986bc061852a83fb8cec7330c74
+User20, User20@gmail.com, 80810, 8133f79d1f3f414f77edeb7b1a61023e
+User21, User21@gmail.com, 11998, 85b7a29973177a3644ac4481753f2863
+User22, User22@gmail.com, 13728, 29b19605f242f18265db619d5f4edf13
+User23, User23@gmail.com, 13038, 92c86d97a81de06edd9af5ef87194c64
+User24, User24@gmail.com, 47373, 42d12c88c8906621eaea9f57bf806223
+User25, User25@gmail.com, 73129, fe36ee33664870f4966096f45091f333
+User26, User26@gmail.com, 75691, 1a73044486c04e897cbe358752e13d0a
+User27, User27@gmail.com, 14823, e59ed8291ae2f838456a52e364403ac1
+User28, User28@gmail.com, 44286, 09fe8f0f8d88d796ba4f25f02181a6dd
+User29, User29@gmail.com, 51161, 21bdc78622c7abaac5068c7f8548a5de
+User30, User30@gmail.com, 65967, 56f67827bb4a889edac71790fb0f0e4f
+User31, User31@gmail.com, 27883, 94e82d301aaca7a3aeecc268513d397b
+User32, User32@gmail.com, 55199, 6d639fd0e4f98c5bdc4a0d820b18adc3
+User33, User33@gmail.com, 60139, 8b3a187dfb821454bd9f066ce59187ee
+User34, User34@gmail.com, 66476, d1942da5aaf5bd32e774b10959257fc7
+User35, User35@gmail.com, 68473, 880d4a199ba610adb754ce6e3e0eca80
+User36, User36@gmail.com, 56980, bfce04c445b339b1feaf0712383324d5
+User37, User37@gmail.com, 81515, 1397eebba0e2336f074bfacc35361fe2
+User38, User38@gmail.com, 56928, acb202f081c1b7581d994cb1a6834c4d
+User39, User39@gmail.com, 36883, 1c12f2048c9bb3b1b74da1576530f5d0
+User40, User40@gmail.com, 81728, 135383182e6c57d9e0ea846aa63d87fb
+User41, User41@gmail.com, 71637, 4c5989a0df5831415c14ae1cecb7bff1
+User42, User42@gmail.com, 37809, c95cb0d2d7265b029ed0ef0f45fa3b38
+User43, User43@gmail.com, 47932, e6bcb0395b3beb6578e4f03d2b5ff1fc
+User44, User44@gmail.com, 55997, 4e6280d50b7af1f82e244c11f0811860
+User45, User45@gmail.com, 15012, 9c4265d103361d7fa3f2a1b5221abece
+User46, User46@gmail.com, 48262, 5f2fe9cca9ae1fa5f62c419278362cf6
+User47, User47@gmail.com, 52592, 4f50f9a57732ae992bb907963bced2f2
+User48, User48@gmail.com, 33726, aedbf44e44fc39de9ffe2caebfe2e7ad
+User49, User49@gmail.com, 57529, ec7caac4d338e2739385eef92f3c2484
+User50, User50@gmail.com, 43013, e6df9857bf0d9ba995440338d070c443
+User51, User51@gmail.com, 45177, a11a755de6ac71781053f48bf3a91ae5
+User52, User52@gmail.com, 48364, a01bcb7c2a56db4719de63792a2424a3
+User53, User53@gmail.com, 51346, 04e376662bc26ca3064926063ca3462d
+User54, User54@gmail.com, 64095, 507320c70e1b2b368f4104ebdbd79781
+User55, User55@gmail.com, 49574, 5b0b31a8c232c0a0e8f9664045639ba7
+User56, User56@gmail.com, 18400, 1a57335ab89a5bea2d8ace6316a8d00b
+User57, User57@gmail.com, 15957, e8bdca02b2c4ba7228391141b4107758
+User58, User58@gmail.com, 13039, 56f96f48e6c38addb94449d90ed63fe7
+User59, User59@gmail.com, 91863, 4a284d367f66a2c88a07e2c65e3e6c8d
+User60, User60@gmail.com, 13637, 37b1e977c522e004776d32fb724713d6
+User61, User61@gmail.com, 18271, 6d70df6f7f93d2a8d4022ecf6fc22fb7
+User62, User62@gmail.com, 38075, b9f3ae079d4acaafee3acdf1a1b59a6d
+User63, User63@gmail.com, 48049, f713fde0bff47b91739b1af189a36b7d
+User64, User64@gmail.com, 37188, 1c355a08f7f4eb6df4718b6dbb265c69
+User65, User65@gmail.com, 62016, baafcc0f51595bc3184a2d74702dbd49
+User66, User66@gmail.com, 31916, 7622cf73b701018f13f6f92032d38d6e
+User67, User67@gmail.com, 12525, 985d830fb0840ee56e97dc2f5800872d
+User68, User68@gmail.com, 73857, 67051cf4b61648df02bebd121bc780c9
+User69, User69@gmail.com, 90073, 6d3550c46fe91306499120397aa4d544
+User70, User70@gmail.com, 92582, 7c83e4f766c299a336dd642142d9b71a
+User71, User71@gmail.com, 60267, ab053e5392d9f61eaa0f90c76709823a
+User72, User72@gmail.com, 61403, bff5f65e1df2024bbb615e29f03aa661
+User73, User73@gmail.com, 41851, 57032a4661c7c1462eb5e6f7ee02d35e
+User74, User74@gmail.com, 70457, 720256fb2b90c2caa0c9c2010f0e5214
+User75, User75@gmail.com, 35153, 2cb7b961145be62ad2abf9734f89780d
+User76, User76@gmail.com, 24400, ffae11236e749724b88a890e8108cc36
+User77, User77@gmail.com, 59370, 7493a6708cf70048e50efe7352c17a3e
+User78, User78@gmail.com, 21242, 8499c42ea3222e051073b9b8367c6936
+User79, User79@gmail.com, 28890, 2e6cedf7148b530959c6e0b32a41549c
+User80, User80@gmail.com, 32620, 9cf8ac3245afed0bfd5f5ee61feb5781
+User81, User81@gmail.com, 39921, b9fa5833c738f33331e8699cd28fbf72
+User82, User82@gmail.com, 57728, 9394d711c23c0a9d2def1c2c7d4b0ce5
+User83, User83@gmail.com, 88511, 3598b5fa94532d447acc41396a7d6bea
+User84, User84@gmail.com, 99906, 20be45ac6c04734014ee62c1b978c37a
+User85, User85@gmail.com, 87121, 9db04111327d3c2f26a88cfe9e41ddaa
+User86, User86@gmail.com, 40251, 9d3ff6b98cd6682a72a7cd4152472811
+User87, User87@gmail.com, 76772, 33e1cd1a7519ef2aef58e908897bfeed
+User88, User88@gmail.com, 11592, d31a22497e92b8b519cedb4c34213786
+User89, User89@gmail.com, 90211, 42627b5a86d7f62be2edc6fde4aa903d
+User90, User90@gmail.com, 79647, a0b70f652faf9b54c90f0f52f33b97eb
+User91, User91@gmail.com, 31799, 536246fe66389c7d152b62d6e26b397d
+User92, User92@gmail.com, 22215, 2967eb55fdf49146c52b8caf63f39b2e
+User93, User93@gmail.com, 65437, af561cda3eaafaec94f59c57556db4fb
+User94, User94@gmail.com, 89377, 2094275daf60c99db9f06735eb367276
+User95, User95@gmail.com, 54031, 27b1e573d0926e61fa476ef5a65caafb
+User96, User96@gmail.com, 32945, f5f1cd4e9387ebea7cde3d2549fa95ad
+User97, User97@gmail.com, 44559, ad114a72b30d10efbd8f34d74dc8f0dc
+User98, User98@gmail.com, 48297, b7ec474a09ce523dd16ced50efd1d748
+User99, User99@gmail.com, 90270, f020ef5b3379b2683a3a678dd3d679e3
+User100, User100@gmail.com, 48489, e7ce861e844629061897a8279fc5aeee
+
 
